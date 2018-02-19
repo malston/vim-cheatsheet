@@ -65,6 +65,7 @@ ce       # change (replace) to the end of the next word
 cb       # change (replace) to the start of the previous word
 c$       # change (replace) to the end of the line
 C        # same as c$
+caw      # change a word (leading or trailing white space is included)
 s        # delete character and substitute text
 S        # delete line and substitute text (same as cc)
 xp       # transpose two letters (delete and paste)
@@ -108,6 +109,7 @@ P        # put (paste) before cursor
 dd       # delete (cut) a line
 2dd      # delete (cut) 2 lines
 dw       # delete (cut) the characters of the word from the cursor position to the start of the next word
+daw      # delete (cut) a word (leading or trailing white space is included)
 D        # delete (cut) to the end of the line
 d$       # delete (cut) to the end of the line
 d^       # delete (cut) to the first non-blank character of the line
