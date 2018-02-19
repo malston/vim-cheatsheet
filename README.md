@@ -1,6 +1,6 @@
 # Vim Cheatsheet
 
->Disclaimer: This cheatsheet is summerized from my own experience and other publich information. It should not be considered official advice.
+>Disclaimer: This cheatsheet is summerized from my own experience and other publich information. It should not be considered official advice. Use `:help` for official [documentation](http://vimhelp.appspot.com/).
 
 ## Global
 ```bash
@@ -64,6 +64,7 @@ cw       # change (replace) to the start of the next word
 ce       # change (replace) to the end of the next word
 cb       # change (replace) to the start of the previous word
 c$       # change (replace) to the end of the line
+C        # same as c$
 s        # delete character and substitute text
 S        # delete line and substitute text (same as cc)
 xp       # transpose two letters (delete and paste)
