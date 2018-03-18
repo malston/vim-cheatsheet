@@ -2,6 +2,14 @@
 
 >Disclaimer: This cheatsheet is summerized from my own experience and other publich information. It should not be considered official advice. Use `:help` for official [documentation](http://vimhelp.appspot.com/).
 
+## Other Cheatsheets
+
+- https://rumorscity.com/wp-content/uploads/2014/08/10-Best-VIM-Cheat-Sheet-01.jpg
+- https://gist.github.com/awidegreen/3854277#fromHistory
+- https://vim.rtorr.com/
+- http://www.fprintf.net/vimCheatSheet.html
+- http://vimsheet.com/
+
 ## Global
 ```bash
 :help keyword # open help for keyword
